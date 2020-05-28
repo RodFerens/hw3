@@ -1,7 +1,7 @@
 {
-  "name": "BootstrapEducation",
+  "name": "HW3",
   "version": "1.0.0",
-  "description": "bootstrap project",
+  "description": "homework 3",
   "private": true,
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --mode production",
@@ -23,7 +23,7 @@
     "js",
     "webpack"
   ],
-  "author": "Ruslan Sadykov",
+  "author": "Rodion Ferens",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RodFerens/hw3/issues"
